@@ -1,0 +1,10 @@
+name = "binance-th-mcp-community"
+main = "dist/worker.js"
+compatibility_date = "2025-01-01"
+
+[observability]
+enabled = true
+
+[[routes]]
+pattern = "binance-th-mcp-community.node2flow.net"
+custom_domain = true
