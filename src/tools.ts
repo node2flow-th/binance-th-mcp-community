@@ -540,7 +540,9 @@ export const TOOLS: MCPToolDefinition[] = [
     description: 'Create a listen key for user data stream (WebSocket). The key is valid for 60 minutes and must be kept alive with keepalive requests.',
     inputSchema: {
       type: 'object',
-      properties: {},
+      properties: {
+        _fields: { type: 'string', description: 'Comma-separated list of fields to include in response' },
+      },
     },
     annotations: {
       title: 'Create Listen Key',
