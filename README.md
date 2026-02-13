@@ -1,5 +1,6 @@
 # Binance TH MCP Server
 
+[![smithery badge](https://smithery.ai/badge/node2flow/binance-th)](https://smithery.ai/server/node2flow/binance-th)
 [![npm version](https://img.shields.io/npm/v/@node2flow/binance-th-mcp.svg)](https://www.npmjs.com/package/@node2flow/binance-th-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
