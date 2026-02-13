@@ -1,6 +1,6 @@
 {
   "name": "@node2flow/binance-th-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for Binance Thailand (Gulf Binance) API — 27 tools for market data, trading, orders, wallet, and account management",
   "keywords": [
     "binance",
