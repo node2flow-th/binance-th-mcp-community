@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "required": [],
+  "properties": {
+    "BINANCE_TH_API_KEY": {
+      "type": "string",
+      "description": "Binance Thailand API key (optional for market data, required for trading)"
+    },
+    "BINANCE_TH_SECRET_KEY": {
+      "type": "string",
+      "description": "Binance Thailand Secret key (required for authenticated endpoints)"
+    }
+  }
+}
