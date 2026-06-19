@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/node2flow-th-binance-th-mcp-community-badge.png)](https://mseep.ai/app/node2flow-th-binance-th-mcp-community)
+
 # Binance TH MCP Server
 
 [![smithery badge](https://smithery.ai/badge/node2flow/binance-th)](https://smithery.ai/server/node2flow/binance-th)
